@@ -1,0 +1,5 @@
+{
+  "setupFilesAfterEnv": ["<rootDir>/src/setupTests.js"],
+  "setupFiles": ["raf/polyfill"],
+  "snapshotSerializers": ["enzyme-to-json/serializer"]
+}
